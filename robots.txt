@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap:https://coverstore.github.io/Cover-Store/sitemap.xml
+Sitemap: https://coverstore.github.io/Cover-Store/sitemap.xml
