@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coverstore.github.io/dash-mats-Australia/sitemap.xml
